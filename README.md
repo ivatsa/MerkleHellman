@@ -1,4 +1,8 @@
 MerkleHellman
 =============
 
-Implementation of MerkleHellman using Doubly Linklist
+This codebase consists of two parts:
+
+- Implementation of Doubly Linklist
+- Implementation of MerkleHellman using Doubly LinkList
+
